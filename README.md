@@ -1,1 +1,5 @@
-# Static-website
+Task 5: Deploy a Static Website Using GitHub Pages.
+
+In this project, I designed, developed, and deployed a personal portfolio website using HTML, CSS, and JavaScript, and hosted it online for free using GitHub Pages. The website serves as a simple static site showcasing information about me, my projects, and contact details. It includes multiple sections such as Header, About Me, Projects, Contact, and Footer, all designed with a clean, modern, and fully responsive layout that adapts seamlessly to different screen sizes, including desktops, tablets, and mobile devices.
+
+To deploy the site, I first created a GitHub repository named <yourusername>.github.io, then cloned it locally using Git. After adding my website files, I committed and pushed them to the repository. Finally, I enabled GitHub Pages under the repository settings to make the website live and publicly accessible. Through this task, I gained hands-on experience with version control (Git), web deployment, and responsive web design, while also learning how to host professional static websites using GitHub Pages for portfolio or project demonstrations.
